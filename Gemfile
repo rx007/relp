@@ -2,4 +2,4 @@ source :rubygems
 
 gemspec
 
-gem 'rake'
+gem 'rake', '>= 12.3.3'
